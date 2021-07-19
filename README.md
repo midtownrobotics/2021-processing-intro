@@ -11,6 +11,7 @@ Use the following commands to figure out where you are, navigate to your documen
 * `ls` stands for list. This will list all the files and subdirectories in the current directory
 * `cd` stands for change directory. Use this command to navigate into a subdirectory.
 * `mkdir` means make directory. Once you are in your documents directory, use this command to make the new `G3-2021` directory.
+
 If you have not used the terminal before, this can be very confusing. Please do not hesitate to ask for help or clarification.  
 
 Now that you are in the `G3-2021` directory, run the following command to clone this git repository onto your computer:
