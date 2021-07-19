@@ -5,7 +5,7 @@ To use this tutorial, you must first have git and processing installed. Follow t
 * https://git-scm.com
 * https://processing.org/download/
 
-Now that you have those installed, open up the command line on your computer. If you are using a Windows machine, this is called powershell. On Mac or Linux, this is called the terminal
+Now that you have those installed, open up the command line on your computer. If you are using a Windows machine, this is called powershell. On Mac or Linux, this is called the terminal.
 Use the following commands to figure out where you are, navigate to your documents directory, create a directory called `G3-2021` and go into that directory:
 * `pwd` means print working directory. This will print the path to what folder you are in.
 * `ls` stands for list. This will list all the files and subdirectories in the current directory
