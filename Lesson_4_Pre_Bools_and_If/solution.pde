@@ -36,7 +36,7 @@ void solution() {
   // Ucomment the following lines to see these operators in action. Make sure to predict what each line will print!
   
   println("3 < 5:" + (3 < 5));
-  println("1 > 2:" + (1 < 2));
+  println("1 > 2:" + (1 > 2));
   println("9 <= 9:" + (9 <= 9));
   println("3 == 6:" + (3  == 6));
   println("3 != 6:" + (3 != 6));
